@@ -39,7 +39,8 @@ def main_keyboard():
             [{"text": "🛒 បើក Mini App ទិញទំនិញ", "url": BIRD_BOT_LINK}],
             [{"text": "📖 របៀបប្រើ Mini App", "callback_data": "tutorial_start"}],
             [{"text": "📦 សាកសួរបោះដុំ", "callback_data": "wholesale"}],
-            [{"text": "💬 និយាយជាមួយបុគ្គលិក", "callback_data": "human"}]
+            [{"text": "💬 និយាយជាមួយបុគ្គលិក", "callback_data": "human"}],
+            [{"text": "🟢 ចាប់ផ្តើមបញ្ជាទិញរហ័ស", "url": "https://t.me/birdnest_funnel_bot"}] 
         ]
     }
 
